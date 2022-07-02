@@ -3,5 +3,6 @@
     <corners
         android:topLeftRadius="@dimen/vs_10"
         android:topRightRadius="@dimen/vs_10" />
-    <solid android:color="@color/color_FFFFFF" />
+    <color name="color_134466">#134466</color>
+    <color name="color_33134466">#33134466</color>
 </shape>
